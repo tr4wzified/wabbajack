@@ -89,9 +89,11 @@ namespace Wabbajack.Common
 
         public static IReadOnlyDictionary<Game, GameMetaData> Games = new Dictionary<Game, GameMetaData>
         {
+            /*
             {
                 Game.Morrowind, new GameMetaData()
             },
+            */
 
             {
                 Game.Oblivion, new GameMetaData
