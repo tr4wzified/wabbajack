@@ -894,7 +894,7 @@ namespace Wabbajack.Common
         private static async Task<long> TestDiskSpeedInner(WorkQueue queue, AbsolutePath path)
         {
             var startTime = DateTime.Now;
-            var seconds = 2;
+            var seconds = 5;
             var results = await Enumerable.Range(0, queue.DesiredNumWorkers)
                 .PMap(queue, idx =>
                 {
