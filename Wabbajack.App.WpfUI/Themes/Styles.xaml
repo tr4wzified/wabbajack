@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml">
+
+    <!-- Colors -->
+
+    <Color x:Key="BackgroundColor" R="48" G="50" B="75" />
+    <Color x:Key="PrimaryColor" R="217" G="187" B="249"/>
+    <Color x:Key="SuccessColor" R="219" G="41" B="85"/>
+    <Color x:Key="ErrorColor" R="219" G="41" B="85"/>
+    <Color x:Key="WarningColor" R="224" G="202" B="60"/>
+
+    <!-- Brushes-->
+    <SolidColorBrush x:Key="BackgroundBrush" Color="{StaticResource BackgroundColor}"/>
+    <SolidColorBrush x:Key="PrimaryBrush" Color="{StaticResource PrimaryColor}"/>
+    <SolidColorBrush x:Key="SuccessBrush" Color="{StaticResource SuccessColor}"/>
+    <SolidColorBrush x:Key="ErrorBrush" Color="{StaticResource ErrorColor}"/>
+    <SolidColorBrush x:Key="WarningBrush" Color="{StaticResource WarningColor}"/>
+</ResourceDictionary>

@@ -110,8 +110,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solutionItems", ".solutionItems", "{109037C8-CF2F-4179-B064-A66147BC18C5}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		nuget.config = nuget.config
 		CHANGELOG.md = CHANGELOG.md
+		nuget.config = nuget.config
 		README.md = README.md
 	EndProjectSection
 EndProject
@@ -125,29 +125,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Networking.Steam.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{18E36813-CB53-4172-8FF3-EFE3B9B30A5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.Networking.Http.Test", "Wabbajack.Networking.Http.Test\Wabbajack.Networking.Http.Test.csproj", "{34FC755D-24F0-456A-B5C1-5BA7F12DC233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Networking.Http.Test", "Wabbajack.Networking.Http.Test\Wabbajack.Networking.Http.Test.csproj", "{34FC755D-24F0-456A-B5C1-5BA7F12DC233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.Compression.Zip", "Wabbajack.Compression.Zip\Wabbajack.Compression.Zip.csproj", "{10165025-D30B-44B7-A764-50E15603AE56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Compression.Zip", "Wabbajack.Compression.Zip\Wabbajack.Compression.Zip.csproj", "{10165025-D30B-44B7-A764-50E15603AE56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.IO.Async", "Wabbajack.IO.Async\Wabbajack.IO.Async.csproj", "{64AD7E26-5643-4969-A61C-E0A90FA25FCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.IO.Async", "Wabbajack.IO.Async\Wabbajack.IO.Async.csproj", "{64AD7E26-5643-4969-A61C-E0A90FA25FCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.Compression.Zip.Test", "Wabbajack.Compression.Zip.Test\Wabbajack.Compression.Zip.Test.csproj", "{6D7EA87E-6ABE-4BA3-B93A-BE5E71A4DE7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Compression.Zip.Test", "Wabbajack.Compression.Zip.Test\Wabbajack.Compression.Zip.Test.csproj", "{6D7EA87E-6ABE-4BA3-B93A-BE5E71A4DE7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.Networking.BethesdaNet", "Wabbajack.Networking.BethesdaNet\Wabbajack.Networking.BethesdaNet.csproj", "{A3813D73-9A8E-4CE7-861A-C59043DFFC14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Networking.BethesdaNet", "Wabbajack.Networking.BethesdaNet\Wabbajack.Networking.BethesdaNet.csproj", "{A3813D73-9A8E-4CE7-861A-C59043DFFC14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.Downloaders.Bethesda", "Wabbajack.Downloaders.Bethesda\Wabbajack.Downloaders.Bethesda.csproj", "{B10BB6D6-B3FC-4A76-8A07-6A0A0ADDE198}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Downloaders.Bethesda", "Wabbajack.Downloaders.Bethesda\Wabbajack.Downloaders.Bethesda.csproj", "{B10BB6D6-B3FC-4A76-8A07-6A0A0ADDE198}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.Downloaders.Manual", "Wabbajack.Downloaders.Manual\Wabbajack.Downloaders.Manual.csproj", "{7FC4F129-F0FA-46B7-B7C4-532E371A6326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Downloaders.Manual", "Wabbajack.Downloaders.Manual\Wabbajack.Downloaders.Manual.csproj", "{7FC4F129-F0FA-46B7-B7C4-532E371A6326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.App.Wpf", "Wabbajack.App.Wpf\Wabbajack.App.Wpf.csproj", "{1196560A-9FFD-4290-9418-470508E984C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.App.Wpf", "Wabbajack.App.Wpf\Wabbajack.App.Wpf.csproj", "{1196560A-9FFD-4290-9418-470508E984C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.VFS.Interfaces", "Wabbajack.VFS.Interfaces\Wabbajack.VFS.Interfaces.csproj", "{E4BDB22D-11A4-452F-8D10-D9CA9777EA22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.VFS.Interfaces", "Wabbajack.VFS.Interfaces\Wabbajack.VFS.Interfaces.csproj", "{E4BDB22D-11A4-452F-8D10-D9CA9777EA22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.CLI.Builder", "Wabbajack.CLI.Builder\Wabbajack.CLI.Builder.csproj", "{99CD51A1-38C9-420E-9497-2C9AEAF0053C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.CLI.Builder", "Wabbajack.CLI.Builder\Wabbajack.CLI.Builder.csproj", "{99CD51A1-38C9-420E-9497-2C9AEAF0053C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.Downloaders.VerificationCache", "Wabbajack.Downloaders.VerificationCache\Wabbajack.Downloaders.VerificationCache.csproj", "{D9560C73-4E58-4463-9DB9-D06491E0E1C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Downloaders.VerificationCache", "Wabbajack.Downloaders.VerificationCache\Wabbajack.Downloaders.VerificationCache.csproj", "{D9560C73-4E58-4463-9DB9-D06491E0E1C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wabbajack.Configuration", "Wabbajack.Configuration\Wabbajack.Configuration.csproj", "{E7CDACA6-D3FF-4CF6-8EF8-05FCD27F6FBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.Configuration", "Wabbajack.Configuration\Wabbajack.Configuration.csproj", "{E7CDACA6-D3FF-4CF6-8EF8-05FCD27F6FBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wabbajack.App.WpfUI", "Wabbajack.App.WpfUI\Wabbajack.App.WpfUI.csproj", "{F2B6C3AE-261C-4228-965D-5FE559935352}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -407,6 +409,10 @@ Global
 		{E7CDACA6-D3FF-4CF6-8EF8-05FCD27F6FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7CDACA6-D3FF-4CF6-8EF8-05FCD27F6FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7CDACA6-D3FF-4CF6-8EF8-05FCD27F6FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B6C3AE-261C-4228-965D-5FE559935352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B6C3AE-261C-4228-965D-5FE559935352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B6C3AE-261C-4228-965D-5FE559935352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B6C3AE-261C-4228-965D-5FE559935352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
