@@ -1,9 +1,9 @@
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
 using System;
-using Wabbajack.App.Avalonia.ViewModels;
+using Wabbajack.App.UI.ViewModels;
 
-namespace Wabbajack.App.Avalonia
+namespace Wabbajack.App.UI
 {
     public class ViewLocator : IDataTemplate
     {

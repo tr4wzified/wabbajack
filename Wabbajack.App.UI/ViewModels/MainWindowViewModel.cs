@@ -1,4 +1,4 @@
-﻿namespace Wabbajack.App.Avalonia.ViewModels
+﻿namespace Wabbajack.App.UI.ViewModels
 {
     public class MainWindowViewModel : ViewModelBase
     {
